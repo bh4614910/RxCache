@@ -136,4 +136,4 @@ testInerface.getData("testKey",Bitmap.class).observeOn(AndroidSchedulers.mainThr
 # 架构设计
 说完对整个API的使用，再来详细看一下整个缓存的项目结构。
 ![CacheUML.png](https://upload-images.jianshu.io/upload_images/10294405-18bd8c839722c5e0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
+详细的代码说明[https://www.jianshu.com/p/a16ee1ff4da1](https://www.jianshu.com/p/a16ee1ff4da1)
